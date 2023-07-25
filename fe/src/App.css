@@ -1,0 +1,8 @@
+.App {
+  /* text-align: center; */
+  padding: 1%;
+}
+.item{
+  display: flex;
+  padding: 5px;
+}
